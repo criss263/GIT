@@ -12,6 +12,7 @@ for i in range(10):
 numeros.sort(reverse=True)
 numero_alto = numeros[0]
 numero_menor= numeros[-1]
+#hola
 
 print(f"Los numeros ordenados son: {numeros}")
 print(f"El numero menor es: {numero_menor}")
